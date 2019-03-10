@@ -7,5 +7,7 @@ public class MathApp {
 		System.out.println("2 X 1 = "+(2*1));
 		System.out.println("2 X 2 = "+(2*2));
 		System.out.println("2 X 3 = "+(2*3));
+		System.out.println("2 X 4 = "+(2*4));
+		System.out.println("2 X 5 = "+(2*5));
 	}
 }
