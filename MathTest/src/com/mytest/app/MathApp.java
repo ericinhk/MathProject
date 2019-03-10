@@ -4,10 +4,7 @@ public class MathApp {
 	public static void main(String[] args) {
 		System.out.println("Math Application");
 		
-		System.out.println("2 X 1 = "+(2*1));
-		System.out.println("2 X 2 = "+(2*2));
-		System.out.println("2 X 3 = "+(2*3));
-		System.out.println("2 X 4 = "+(2*4));
-		System.out.println("2 X 5 = "+(2*5));
+		for (int i = 1; i < 6; i++)
+			System.out.println("2 X " + i + " = "+(2*i));
 	}
 }
